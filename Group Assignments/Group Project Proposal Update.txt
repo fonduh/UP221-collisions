@@ -1,0 +1,21 @@
+﻿Research Question: We want to have a broader understanding of traffic collisions in the City of LA. In the City of Los Angeles, what do the traffic collisions look like in 2020, and how do they compare to 2010? With this project, we hope to understand the demographics and conditions of neighborhoods in Los Angeles with a particular focus on infrastructure, like road safety and signs.
+Other things we are thinking about: 
+Materials of road
+Commute time
+Time of day of collision
+Comparing areas and regions within greater Los Angeles 
+Substance Abuse
+MO Codes
+Demographic characteristics of dataset
+An explanation of why it is important to you, why it matters to others, and what is at stake:
+We care about this research question because as burgeoning urban planners who go to school in West LA, traffic collisions in West LA are both specific instances and a specific geography that we think about frequently. Traffic collisions are a symptom of larger problems including a city’s overreliance on cars and car infrastructure, and poor and unsafe pedestrian infrastructure. Vehicle traffic collisions are one of the leading causes of unintentional injuries in the United States. We hypothesize that vehicle traffic collisions are not equal across racial and socioeconomic demographics.
+This research question is vital to address because it can help us as planners, to make informed decisions about improving road layouts such as signs, traffic flow, and road safety to ensure the well being of residents, commuters, and pedestrians. At stake is not only the lives of LA residents, commuters, tourists but also the economic losses through the health sector and insurance claims.
+Spatial Scope: We are looking at the City of LA
+Data Sources we will be using: 
+LACounty Data Portal. Traffic Collisions in LA from 2020 and 2010
+
+
+Archived Data Sources:
+West LA Traffic Collisions by Year: https://data.lacity.org/Public-Safety/West-Los-Angeles-Traffic-Collisions-By-Year/n4ru-wwzt Other Data sources: Temporal - Traffic Collisions 2014-2019 for all of LA: https://www.arcgis.com/home/item.html?id=66d96f15d4e14e039caa6134e6eab8e5#data Traffic Fatalities (non-geolocated) for LA: victim_los_angeles_2014_2019 | victim_los_angeles_2014_2019 | City of Los Angeles Hub (lacity.org) Weather: TBD Collision data (includes cause of accident) from the NHTSA: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2014/National/ Commute Time Data from Census Census Profile of Los Angeles: Los Angeles County, California - Census Bureau Profile Other articles we can pull from: Race, Class, and Traffic Deaths (NYT) Traffic violence continues to surge in LA (LATimes)
+Scope: We are exploring demographic characteristics, alcohol usage, materials of roads, the time of day that a collision happens, what the specific characteristics of the crash is (MO Codes), and comparing different regions within the LA area. 
+Insights: We have analyzed some of the demographic characteristics, alcohol usage, materials, and time of day. We are working to gain more of an insight on these issues, and are putting together team members work to look at a broader, more descriptive picture of Los Angeles Traffic Collisions.
