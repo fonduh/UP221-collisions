@@ -10,7 +10,7 @@ Leila Moinpour's GitHub: https://github.com/fonduh/UP221-collisions/blob/main/Gr
 
 Fonda Hu's Github: [Midterm Notebook Cleaned, Github](https://github.com/fonduh/UP221-collisions/blob/main/Group%20Assignments/Midterm_Cleaned_fonda.ipynb)
 
- * Jupyter: [Midterm Notebook Cleaned, Jupyter](https://jupyter.idre.ucla.edu/user/fmhu03@ucla.edu/lab/workspaces/auto-U/tree/up221-fonda/UP221-collisions/Group%20Assignments/assignment3.ipynb)
+ * Jupyter: [Midterm Notebook Cleaned, Jupyter](https://jupyter.idre.ucla.edu/user/fmhu03@ucla.edu/lab/workspaces/auto-3/tree/UP221-collisions/Group%20Assignments/Midterm_Cleaned_fonda.ipynb)
 
 Sonia Garfinkel's Github:
 
