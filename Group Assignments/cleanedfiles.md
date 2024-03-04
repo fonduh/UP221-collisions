@@ -16,6 +16,6 @@ Sonia Garfinkel's Github:
 
  * Jupyter:
 
-Eisha Shakeel's Github: 
+Eisha Shakeel's Github: (https://github.com/fonduh/UP221-collisions/blob/main/Group%20Assignments/Eishs%20Shakeel%20-%20Assignment%207.ipynb)
 
- * Jupyter:
+ * Jupyter: (https://jupyter.idre.ucla.edu/user/eishashakeel@g.ucla.edu/lab/tree/up221-Eisha/Week%204/Assignment%207.ipynb)
