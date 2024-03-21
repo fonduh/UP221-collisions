@@ -12,9 +12,9 @@ Fonda Hu's Github: [Midterm Notebook Cleaned, Github](https://github.com/fonduh/
 
  * Jupyter: [Midterm Notebook Cleaned, Jupyter](https://jupyter.idre.ucla.edu/user/fmhu03@ucla.edu/lab/workspaces/auto-3/tree/UP221-collisions/Group%20Assignments/Midterm_Cleaned_fonda.ipynb)
 
-Sonia Garfinkel's Github:
+Sonia Garfinkel's Github: https://github.com/fonduh/UP221-collisions/blob/main/Group%20Assignments/Midterm.ipynb
 
- * Jupyter:
+ * Jupyter: https://jupyter.idre.ucla.edu/user/sgarfinkel@ucla.edu/lab/tree/up221-sonia/Midterm.ipynb
 
 Eisha Shakeel's Github: (https://github.com/fonduh/UP221-collisions/blob/main/Group%20Assignments/Eishs%20Shakeel%20-%20Assignment%207.ipynb)
 
