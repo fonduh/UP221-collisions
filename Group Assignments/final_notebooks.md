@@ -30,9 +30,9 @@ Juypter Hub:
 
 **Sonia Garfinkel**
 
-Git hub: 
+Git hub: https://github.com/fonduh/UP221-collisions/blob/main/Group%20Assignments/Final_Sonia.ipynb
 
-Juypter Hub: 
+Juypter Hub: https://jupyter.idre.ucla.edu/user/sgarfinkel@ucla.edu/lab/tree/up221-sonia/Final.ipynb
 
 
 
